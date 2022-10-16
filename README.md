@@ -16,7 +16,7 @@
 </p></br>
 <h3 align="center">📔 Quest 📔</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-0067?style=flat-square&logo=Rust&logoColor=white"
+  <img src="https://img.shields.io/badge/Rust-808080?style=flat-square&logo=Rust&logoColor=white"
 </p></br></br>
 
 <h3 align="center">🎈 Find Me 🎈</h3>
