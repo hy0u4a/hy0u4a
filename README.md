@@ -21,8 +21,12 @@
 
 <h3 align="center">🎈 Find Me 🎈</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Mail-hyouka@kakao.com-FFD400?style=flat-square&logo=Mail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jeongwoojun__/"
+  <a href="hyouka@kakao.com">
+    <img src="https://img.shields.io/badge/Mail-hyouka@kakao.com-FFD400?style=flat-square&logo=Mail&logoColor=white"/></a>
+  </a>
+  <a href="https://www.instagram.com/jeongwoojun__/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"
+  </a>
 </p></br></br></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
