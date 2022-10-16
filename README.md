@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hy0u4a%20Profile&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?height=400&color=auto&text=Hello%20World!&desc=Hy0u4a%20Profile)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
