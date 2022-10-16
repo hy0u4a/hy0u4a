@@ -27,6 +27,8 @@
   </a>
 </p></br></br></br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hy0u4a&theme=tokyonight")](https://github.com/anuraghazra/github-readme-stats)
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hy0u4a&theme=tokyonight")](https://github.com/anuraghazra/github-readme-stats)
+  </a>
+</p>
