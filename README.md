@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-50BCDF?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android-008D62?style=flat-square&logo=Android&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 </p></br>
 <h3 align="center">📔 Quest 📔</h3>
 <p align="center">
