@@ -22,7 +22,7 @@
 <h3 align="center">🎈 Find Me 🎈</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Mail-hyouka@kakao.com-FFD400?style=flat-square&logo=Mail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jeongwoojun__/">
+  <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"
   </a>
 </p></br></br></br>
